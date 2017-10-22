@@ -10,6 +10,5 @@ def reverse_each_word(word)
     "#{w.reverse}"
   end
   str = modified.join(" ")
-  str
   # str.chop
 end
